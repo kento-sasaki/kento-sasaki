@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @kento-sasaki
 - I love TypeScript, React and Next.js
-- I’m currently learning Ruby on Rails, GrpahQL, and apollo.
+- I’m currently learning Ruby on Rails, GrpahQL, and Apollo.
 
 <!---
 kento-sasaki/kento-sasaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
