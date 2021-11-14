@@ -7,9 +7,9 @@ kento-sasaki/kento-sasaki is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kento-sasaki&show_icons=true" height="200px" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kento-sasaki&layout=compact" height="200px" />
-</a>
+<div style="margin-bottom: 1em">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kento-sasaki&show_icons=true" width="200px" />
+</div>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kento-sasaki&layout=compact" width="200px" />
+</div>
